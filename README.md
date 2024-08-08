@@ -14,7 +14,5 @@ I am passionate about tackling complex problems, exploring new technologies, and
 
 ## 🔗 Links
 [![www.conizzoli.com](https://img.shields.io/badge/www.conizzoli.com-FFF?style=for-the-badge)](https://www.conizzoli.com)
-
 [![Get my resume ↓](https://img.shields.io/badge/Get%20my%20resume%20↓-FFF?style=for-the-badge)](https://www.conizzoli.com/resume/view)
-
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paolo-conizzoli)
