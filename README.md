@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-With nearly 10 years of professional experience as a Software Engineer, I specialize in web and cloud development, with a strong experience collaborating with Product Managers, DevOps, and UI/UX teams.
+With nearly 10 years of professional experience as a Software Engineer, I specialize in web and cloud development, with a strong experience collaborating with Product Managers, DevOps, and UI/UX teams. 
 
 I am passionate about tackling complex problems, exploring new technologies, and identifying data-driven issues in the development lifecycle. This helped me gain trust and lead some of my teams' largest and most challenging projects.
 
